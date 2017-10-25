@@ -1,4 +1,6 @@
 
 doc di
-baby
+khong
 i don like you
+i dont understand
+ke di
