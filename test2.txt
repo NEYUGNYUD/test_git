@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 nhanh master da thay doi trong file text2.txt
+=======
+nhanh test da chinh sua file test2.txt
+>>>>>>> test
 
